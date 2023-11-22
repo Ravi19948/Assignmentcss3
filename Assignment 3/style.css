@@ -1,0 +1,178 @@
+.main{
+    width: 100%;
+    background-color: rgb(138, 135, 135);
+}
+#one{
+    height: 150px;
+    width: 350px;
+    border: 8px solid red;
+    border-radius: 8px;
+    color: crimson;
+    background-color: white;
+    align-items: center;
+    margin-left: 500px;
+    /* margin-top: 5px; */
+    
+}
+h2{
+    text-align: center;
+}
+.main1{
+    height: 600px;
+    width: 99%;
+    border: 8px solid green;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#two{
+    height: 200px;
+    width: 175px;
+    border: 8px solid red;
+    border-radius: 8px;
+    color: purple;
+    background-color: white;
+}
+#three{
+    height: 200px;
+    width: 175px;
+    border: 8px solid red;
+    border-radius: 8px;
+    color: purple;
+    background-color: white;
+    justify-content: flex-end;
+    margin-bottom: 50px;
+    /* margin-bottom: 10px; */
+    
+}
+#four{
+    height: 200px;
+    width: 175px;
+    border: 8px solid red;
+    border-radius: 8px;
+    color: purple;
+    background-color: white;
+    background-size: cover;
+    background-image: url(./ayanshphoto.jpg);
+    margin-left: 890px;
+    /* margin:0px 20px 400px 820px ; */
+    
+    
+}
+#five{
+    height: 200px;
+    width: 175px;
+    border: 8px solid red;
+    border-radius: 8px;
+    color: purple;
+    background-color: white;
+    margin-left: 890px;
+    margin-bottom: 50px;
+    /* margin:300px 20px 10px 0px ; */
+}
+#six{
+    text-align: center;
+    width: 450px;
+    border: 8px solid red;
+    border-radius: 8px;
+    color: purple;
+    background-color: greenyellow;
+    display: inline-block;
+    position: fixed;
+    top: 450px;
+    left: 450px;
+    z-index: 2;
+}
+ h4{
+   display: inline-block;
+   margin-left: 50px; 
+}
+h3{
+    display: inline-block;
+}
+strong{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 50px;
+    margin-bottom: 80px;
+}
+input{
+    margin-left: 50px;
+    width: 80px;
+    text-align: center;
+}
+#submit{
+    background-color: brown;
+    /* border-radius: 2px; */
+}
+#list{
+    height: 100px;
+    width: 800px;
+    border:8px solid purple ;
+    margin: auto;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    background-color: green;
+    /* margin-top: 15px; */
+    /* align-content: flex-end; */
+    font-style: italic;
+    text-align: center;
+}
+/* #list div{
+    height: 350px;
+    width: 270px;
+    font-style: italic;
+    text-align: center; */
+
+
+#fruit{
+    font-style: italic;
+    text-align: center;
+    height: 275px;
+    width: 393px;
+    background-color: yellow;
+    border: 8px solid green;
+    display: inline-block;
+    margin-left: 259px;
+    margin-top: -8px ;
+    /* position: relative;
+    align-items: start; */
+    /* border-right: 5px solid green;
+    border-bottom: 12px solid green;
+    flex-grow: 1; */
+}
+#eight{
+    font-style: italic;
+    text-align: center;
+    height: 275px;
+    width: 394px;
+    background-color: yellow;
+    border: 8px solid green;
+    display: inline-block;
+    margin-left: -7px;
+    margin-top: -8px;
+    /* position: relative;
+    align-items: end; */
+    /* border-left: 5px solid green;
+    border-bottom: 12px solid green;
+    flex-grow: 1;   */
+}
+#nine{
+    font-style: italic;
+    text-align: center;
+    height: 270px;
+    width: 800px;
+    background-color: yellow;
+    border: 8px solid green;
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 260px;
+    /* margin-top: -400px; */
+    
+    /* position: relative; */
+    
+    /* border-right: 5px solid green;
+    border-bottom: 12px solid green;
+    flex-grow: 2; */
+}
